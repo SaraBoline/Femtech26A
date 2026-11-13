@@ -20,15 +20,7 @@ ip = ap.ifconfig()[0]
 print("FemTech server startet")
 print("IP:", ip)
 
-# -------------------------
-# GLOBAL BESKED
-# -------------------------
-
 current_message = "NONE"
-
-# -------------------------
-# HTML
-# -------------------------
 
 html = """
 <!DOCTYPE html>
